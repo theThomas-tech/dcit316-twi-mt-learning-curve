@@ -1,0 +1,6 @@
+transformers
+datasets
+sacrebleu
+evaluate
+sentencepiece
+accelerate
